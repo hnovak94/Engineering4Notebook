@@ -13,6 +13,8 @@ This assignment we shifted away from working in Beagleterm, and began using and 
 
 The spicier version of this assignment offers the user the option to choose the number of sides and the number of die rolled. This was done by creating more inputs and the use of nested if loops. 
 
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/drcapture.PNG" height=200>
+
 ### Python Program 01
 
 [Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/calculator.py) 
