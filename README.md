@@ -44,6 +44,12 @@ The modulo is found using "%". [This article](https://www.programiz.com/python-p
 
 ### Python Program 02
 
+[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/quadcalc.py)
+
+#### Assignment Description
+
+#### Working Code
+
 #### Reflection
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/dis.capt.PNG" height=150>
 
