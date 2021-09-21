@@ -41,3 +41,9 @@ The task for this assignment was to create a calculator on python where you coul
 #### Reflection
 
 The modulo is found using "%". [This article](https://www.programiz.com/python-programming/examples/calculator) was very helpful in getting started. An issue with this assignment was the cannot concatenate error. [This article](https://careerkarma.com/blog/python-typeerror-can-only-concatenate-str-not-int-to-str/) was very helpful with this issue. I had to convert the returns at the end to strings using str().
+
+### Python Program 02
+
+#### Reflection
+
+
