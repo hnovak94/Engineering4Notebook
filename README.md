@@ -45,5 +45,5 @@ The modulo is found using "%". [This article](https://www.programiz.com/python-p
 ### Python Program 02
 
 #### Reflection
-
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/dis.capt.PNG" height=150>
 
