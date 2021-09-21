@@ -3,7 +3,7 @@
 
 ## Code
 
-### Hello Python
+### ○ Hello Python
 
 [Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/diceroller%20(1).py)
 
@@ -26,7 +26,7 @@ For this assignment we had to start using functions again, and it was a return t
 The spicier version was done by creating more inputs (for number of sides and number of dice) and the use of nested if loops. 
 
 
-### Python Program 01
+### ○ Python Program 01
 
 [Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/calculator.py) 
 
@@ -42,14 +42,21 @@ The task for this assignment was to create a calculator on python where you coul
 
 The modulo is found using "%". [This article](https://www.programiz.com/python-programming/examples/calculator) was very helpful in getting started. An issue with this assignment was the cannot concatenate error. [This article](https://careerkarma.com/blog/python-typeerror-can-only-concatenate-str-not-int-to-str/) was very helpful with this issue. I had to convert the returns at the end to strings using str().
 
-### Python Program 02
+### ○ Python Program 02
 
 [Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/quadcalc.py)
 
 #### Assignment Description
 
+For this assignment we had to create a program that would find the roots of a quadratic when given inputs for a, b, and c. 
+
 #### Working Code
 
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/qcalc.capt.PNG" height=200>
+
 #### Reflection
+
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/dis.capt.PNG" height=150>
 
+The first step for this assignment was to figure out the discriminant. The above picture shows how that value is found. This was a helpful [code](https://www.geeksforgeeks.org/python-program-to-solve-quadratic-equation/) starter which shows how to use the quadratic formula in python. 
+[This](https://www.codegrepper.com/code-examples/python/how+to+return+an+array+in+python) was helpful in understanding an array. One thing I learned is that it's very helpful to put the actual code you are running below the function. It made it much easier to reset the code so the user could re-enter new values for for a, b, and c. 
