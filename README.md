@@ -96,9 +96,15 @@ This assignment we had to use multiple functions. There was a function to replac
 ### CAD Test Part #1 - Swing Arm
 
 #### Assignment Description
+For this assignment we had to design a swing arm based on a design drawing. 
 
 #### Final Product
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/sa.sketch.PNG" height=200>
 
-##### Configuration 1                 Configuration 2
+##### Configuration 1 
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/sa.capt.PNG" height=150>
+Configuration 2
 
 #### Reflection
+
+The hardest part of this assignment was to figure out dimensions from the sketch that weren't explicitly given. Also, one thing that was very important was deciding the order of the steps. I ended up having to do extra steps later because I didn't plan from the beginning. 
