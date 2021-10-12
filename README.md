@@ -80,13 +80,16 @@ For this assignment we had to use the split() function to divide a simple senten
 
 ### ○ Python Challenge - MSP
 
+[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/hangman-msp.py)
+
 #### Assignment Description
 For this assignment we had to create a program that would play a game of hangman. Player 1 would enter a word, and it would then disappear. Player 2 would enter a guess and the hangman frame would appear. With every entered guess the program would tell the player whether the answer was in the word or not. If it is, then a body part is added to the frame, if it's correct, it will be stored in correct guesses. 
 
 #### Working Code
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/hangmancapt.PNG" height=200>
 
 #### Reflection
-
+This assignment we had to use multiple functions. There was a function to replace the blanks with letters, and a function to slowly add to the frame as the number of incorrect guesses increases. The hardest part of this code was replacing the blanks. The commenting of my code will explain how that was done. 
 
 ## CAD
 
