@@ -116,3 +116,15 @@ Configuration 2
 #### Reflection
 
 The hardest part of this assignment was to figure out dimensions from the sketch that weren't explicitly given. Also, one thing that was very important was deciding the order of the steps. I ended up having to do extra steps later because I didn't plan from the beginning. 
+
+### Intro to CAD
+
+#### Assignment Description
+For this assignment we had to follow steps as an intro to CAD that shows you how to make a skateboard on Onshape. 
+
+#### Final Product
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/skateboard.PNG" height="200">
+
+#### Reflection
+
+The instructions were pretty explicit, so the main issue was just motivation. However, there were some issues with mating in the assembly. 
