@@ -120,6 +120,8 @@ The hardest part of this assignment was to figure out dimensions from the sketch
 
 ### Intro to CAD
 
+[Onshape Document](https://cvilleschools.onshape.com/documents/d45b23f7c4ae5c0bb560e92e/w/1cb96744ab6dc27835275258/e/fe2f0be7eebf92a04bee64b3)
+
 #### Assignment Description
 For this assignment we had to follow steps as an intro to CAD that shows you how to make a skateboard on Onshape. 
 
