@@ -8,6 +8,7 @@
 #### [Python Challenge - MSP](https://github.com/hnovak94/Engineering4Notebook#-python-challenge---msp)
 ### CAD
 #### [Swing Arm](https://github.com/hnovak94/Engineering4Notebook#cad-test-part-1---swing-arm)
+#### [Skateboard](https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/skateboard.PNG)
 
 ## Code
 
