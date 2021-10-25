@@ -112,7 +112,7 @@ For this assignment we had to design a swing arm based on a design drawing.
 #### Final Product
 
 ##### Configurations 1 + 2
-<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/sa.sketch.PNG" height=250><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/config2.PNG" height="250">
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/sa.sketch.PNG" height=250><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/config2.PNG" height="300">
 
 ##### Table of Variables
 
