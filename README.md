@@ -16,9 +16,7 @@
 
 ### Hello Python
 
-[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/diceroller%20(1).py)
-
-[Spicy Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/spicydr.py)
+[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/diceroller%20(1).py), [Spicy Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/spicydr.py)
   
 #### Assignment Description
 
