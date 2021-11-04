@@ -157,7 +157,7 @@ We had to use configurations and variables to make different shapes, sizes, and 
 
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/configtable.PNG" height="400">
 
-I used the different lego configurations to make a duck in Onshape.
+I used the different configurations and snap mates to create a duck out of legos. 
 
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck.PNG" height="250">
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck2.PNG" height="250">
