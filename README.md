@@ -7,8 +7,10 @@
 #### [Python Program 03](https://github.com/hnovak94/Engineering4Notebook#-python-program-03)
 #### [Python Challenge - MSP](https://github.com/hnovak94/Engineering4Notebook#-python-challenge---msp)
 ### CAD
-#### [Swing Arm](https://github.com/hnovak94/Engineering4Notebook#cad-test-part-1---swing-arm)
-#### [Skateboard](https://cvilleschools.onshape.com/documents/d45b23f7c4ae5c0bb560e92e/w/1cb96744ab6dc27835275258/e/fe2f0be7eebf92a04bee64b3)
+#### [CAD Test Part #1](https://github.com/hnovak94/Engineering4Notebook#cad-test-part-1---swing-arm)
+#### [Intro to CAD 2.1-2.4](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-21-24)
+####[Intro to CAD 3.1-3.4](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-31-34)
+
 
 ## Code
 
@@ -53,6 +55,7 @@ The task for this assignment was to create a calculator on python where you coul
 The modulo is found using "%". [This article](https://www.programiz.com/python-programming/examples/calculator) was very helpful in getting started. An issue with this assignment was the cannot concatenate error. [This article](https://careerkarma.com/blog/python-typeerror-can-only-concatenate-str-not-int-to-str/) was very helpful with this issue. I had to convert the returns at the end to strings using str().
 
 
+
 ### Python Program 02
 
 [Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/quadcalc.py)
@@ -73,6 +76,7 @@ The first step for this assignment was to figure out the discriminant. The above
 [This](https://www.codegrepper.com/code-examples/python/how+to+return+an+array+in+python) was helpful in understanding an array. One thing I learned is that it's very helpful to put the actual code you are running below the function. It made it much easier to reset the code so the user could re-enter new values for for a, b, and c. 
 
 
+
 ### Python Program 03
 
 [Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/strloop.py)
@@ -90,6 +94,7 @@ For this assignment we had to write a program that asked the user to enter a sim
 For this assignment we had to use the split() function to divide a simple sentence into an array of individual words. [This article](https://www.w3schools.com/python/ref_string_split.asp) was helpful in understanding a split. Then we had to use a series of for loops to split the individual words into their most basic parts. This was done through a series of variables and arrays. The code is commented to show how the for loops work. 
 
 
+
 ### Python Challenge - MSP
 
 [Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/hangman-msp.py)
@@ -102,6 +107,7 @@ For this assignment we had to create a program that would play a game of hangman
 
 #### Reflection
 This assignment we had to use multiple functions. There was a function to replace the blanks with letters, and a function to slowly add to the frame as the number of incorrect guesses increases. The hardest part of this code was replacing the blanks. The commenting of my code will explain how that was done. 
+
 
 
 ## CAD
@@ -127,6 +133,7 @@ For this assignment we had to design a swing arm based on a design drawing.
 The hardest part of this assignment was to figure out dimensions from the sketch that weren't explicitly given. Also, one thing that was very important was deciding the order of the steps. I ended up having to do extra steps later because I didn't plan from the beginning. The second configuration also messed up the extrusion, so edits had to be made. This was also my first time using variables for lengths and angles in CAD. 
 
 
+
 ### Intro to CAD 2.1-2.4
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/d45b23f7c4ae5c0bb560e92e/w/1cb96744ab6dc27835275258/e/fe2f0be7eebf92a04bee64b3)
@@ -142,6 +149,7 @@ For this assignment we had to follow steps as an intro to CAD that shows you how
 The instructions were pretty explicit, so the main issue was just motivation. However, there were some issues with mating in the assembly. For the first part I learned more efficient ways to add holes. For the second part I learned how to create different parts in the same part folder basing them off of each other's geometry. For part three I got a reminder of how to use the revolve tool. For the last part, this part took me the longest, I learned how to more efficiently add screws and nuts into the assembly. 
 
 
+
 ### Intro to CAD 3.1-3.4
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/91cec67db0eb7e409734e77b/w/dfcd322a61304ceab53a4d4f/e/7d2524be0779493984d6a4b3)
@@ -152,6 +160,7 @@ We had to use configurations and variables to make different shapes, sizes, and 
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/configtable.PNG" height="400">
 
 I used the different lego configurations to make a duck in Onshape.
+
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck.PNG" height="250">
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck2.PNG" height="250">
 
