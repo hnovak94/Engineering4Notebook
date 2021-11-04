@@ -135,3 +135,9 @@ For this assignment we had to follow steps as an intro to CAD that shows you how
 #### Reflection
 
 The instructions were pretty explicit, so the main issue was just motivation. However, there were some issues with mating in the assembly. For the first part I learned more efficient ways to add holes. For the second part I learned how to create different parts in the same part folder basing them off of each other's geometry. For part three I got a reminder of how to use the revolve tool. For the last part, this part took me the longest, I learned how to more efficiently add screws and nuts into the assembly. 
+
+### Intro to CAD 3.1-3.4
+
+[Onshape Document](https://cvilleschools.onshape.com/documents/91cec67db0eb7e409734e77b/w/dfcd322a61304ceab53a4d4f/e/7d2524be0779493984d6a4b3)
+
+
