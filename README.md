@@ -1,15 +1,17 @@
 # Engineering IV Notebook
 ## Table of Contents
 ### Code
-#### [Hello Python](https://github.com/hnovak94/Engineering4Notebook#-hello-python)
-#### [Python Program 01](https://github.com/hnovak94/Engineering4Notebook#-python-program-01)
-#### [Python Program 02](https://github.com/hnovak94/Engineering4Notebook#-python-program-02)
-#### [Python Program 03](https://github.com/hnovak94/Engineering4Notebook#-python-program-03)
+#### [Hello Python - Dice Roller](https://github.com/hnovak94/Engineering4Notebook#-hello-python)
+#### [Python Program 01 - Calculator](https://github.com/hnovak94/Engineering4Notebook#-python-program-01)
+#### [Python Program 02 - Quadratic Calculator](https://github.com/hnovak94/Engineering4Notebook#-python-program-02)
+#### [Python Program 03 - Strings and Loops](https://github.com/hnovak94/Engineering4Notebook#-python-program-03)
 #### [Python Challenge - MSP](https://github.com/hnovak94/Engineering4Notebook#-python-challenge---msp)
+#### [RPi GPIO Pin Introduction](https://github.com/hnovak94/Engineering4Notebook/blob/main/README.md#rpi-gpio-pin-introduction)
 ### CAD
-#### [CAD Test Part #1](https://github.com/hnovak94/Engineering4Notebook#cad-test-part-1---swing-arm)
-#### [Intro to CAD 2.1-2.4](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-21-24)
-#### [Intro to CAD 3.1-3.4](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-31-34)
+#### [CAD Test Part #1 - Swing Arm](https://github.com/hnovak94/Engineering4Notebook#cad-test-part-1---swing-arm)
+#### [Intro to CAD 2.1-2.4 - Skateboard](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-21-24)
+#### [Intro to CAD 3.1-3.4 - Lego](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-31-34)
+#### [Multi-tool]
 
 
 ## Code
