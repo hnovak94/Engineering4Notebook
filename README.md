@@ -106,6 +106,18 @@ For this assignment we had to create a program that would play a game of hangman
 #### Reflection
 This assignment we had to use multiple functions. There was a function to replace the blanks with letters, and a function to slowly add to the frame as the number of incorrect guesses increases. The hardest part of this code was replacing the blanks. The commenting of my code will explain how that was done. 
 
+### RPi GPIO Pin Introduction
+
+[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Python/ledblink.py)
+
+#### Assignment Description
+
+For this assignment we had to get the raspberry pi working in BeagleTerm, and to make the raspberry pi alternate two blinking LEDs. 
+
+#### Reflection
+
+The difficult part of this assignment was the GPIO pins, because the code in itself was very simple. Another factor in this assignment was navigating Beageterm, but I'm not having issues because I already feel comfortable with Terminal, which is very similar. Important commands to remember are ' python3 codename.py ' and ' nano codename.py ' to edit the code. Another important thing to remember is to not change the wiring while the pi is plugged in. The command to shutdown the pi is ' sudo shutdown -h now '. 
+
 
 
 ## CAD
