@@ -173,11 +173,23 @@ We had to use configurations and variables to make different shapes, sizes, and 
 
 I used the different configurations and snap mates to create a duck out of legos. 
 
-<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck.PNG" height="250">
-<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck2.PNG" height="250">
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck.PNG" height="250"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/duck2.PNG" height="250">
 
 ### Reflection
 
 I had used configurations in Onshape prior to this assignment, but was not confident in my use of them. I'm not sure to what extent I will retain the skills from this assignment, but I now know different ways to make CAD design easier and more efficient, particularly if there is variation in different parts. Instead of having to make many different parts individually, with one part studio you can make dozens of parts. 
+
+### Multi-tool
+
+#### Assignment
+The main point of this assignment was to learn how to use the laser cutter. The actual CAD design was relatively simple. 
+
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/mtcapt.PNG" height="250"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/mtdrawcapt.PNG" height="250">
+
+The image on the right shows the drawing to be laser cut. The red lines represent what will be cut, and the blue lines show what will  be engraved on the acryllic. 
+
+#### Reflection
+
+Now I feel more comfortable laser cutting parts on my own. It is also easier now that we don't have to use Adobe Illustrator, we can just make the drawing to be laser cut in Onshape. 
 
 
