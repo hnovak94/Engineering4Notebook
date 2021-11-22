@@ -120,6 +120,17 @@ For this assignment we had to get the raspberry pi working in BeagleTerm, and to
 
 The difficult part of this assignment was the GPIO pins, because the code in itself was very simple. Another factor in this assignment was navigating Beageterm, but I'm not having issues because I already feel comfortable with Terminal, which is very similar. Important commands to remember are ' python3 codename.py ' and ' nano codename.py ' to edit the code. Another important thing to remember is to not change the wiring while the pi is plugged in. The command to shutdown the pi is ' sudo shutdown -h now '. 
 
+### RPi Safe Shutdown Button
+
+[Code]() - See below for code credit
+
+#### Assignment Description
+
+The object of this assignment was to add a button that would safely shutdown and/or reboot the raspberry pi, without needing typed input into BeagleTerm. [This](https://learn.sparkfun.com/tutorials/raspberry-pi-safe-reboot-and-shutdown-button/all) was the tutorial and code used to add the button. 
+
+#### Reflection
+
+This assignment was mostly trial and error, because I kept making small mistakes. This assignment was good practice for quickly manoeuvring in the terminal, and how to modify and work with code that is not written by me. 
 
 
 ## CAD
