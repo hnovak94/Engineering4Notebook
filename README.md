@@ -7,6 +7,7 @@
 #### [Python Program 03 - Strings and Loops](https://github.com/hnovak94/Engineering4Notebook#-python-program-03)
 #### [Python Challenge - MSP](https://github.com/hnovak94/Engineering4Notebook#-python-challenge---msp)
 #### [RPi GPIO Pin Introduction](https://github.com/hnovak94/Engineering4Notebook/blob/main/README.md#rpi-gpio-pin-introduction)
+#### [RPi Safe Shutdown Button](https://github.com/hnovak94/Engineering4Notebook#rpi-safe-shutdown-button)
 ### CAD
 #### [CAD Test Part #1 - Swing Arm](https://github.com/hnovak94/Engineering4Notebook#cad-test-part-1---swing-arm)
 #### [Intro to CAD 2.1-2.4 - Skateboard](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-21-24)
