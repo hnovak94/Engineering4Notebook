@@ -136,7 +136,7 @@ This assignment was mostly trial and error, because I kept making small mistakes
 
 ### GPIO Pins - I2C
 
-[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/gpiopins.py)
+[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/gpiopins.py), [Wiring Diagram](https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/pinswd.png)
 
 #### Assignment Description
 
@@ -144,7 +144,7 @@ The goal of this assignment was to connect an accelerometer and an LCD screen so
 
 #### Working Code
 
-<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/pinsproof.png" height="250">
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/pinsproof.png" height="250"> <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/pinswd.png" height="250">
 
 #### Reflection
 
