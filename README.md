@@ -19,7 +19,7 @@
   
 #### [GPIO Pins - I2C](https://github.com/hnovak94/Engineering4Notebook#gpio-pins---i2c-1)
   
-#### [Headless Accelerometer] 
+#### [Headless Accelerometer](https://github.com/hnovak94/Engineering4Notebook/blob/main/README.md#headless-accelerometer-1) 
 </details>
   
 <details>
