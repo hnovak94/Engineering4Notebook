@@ -1,6 +1,6 @@
-# GPIO Pins -I2C (ENGR4)
+# Headless Accelerometer (ENGR4)
 # Harriet Novak
-# 11.30.21
+# 12.7.21
 
 import time
 import Adafruit_GPIO.SPI as SPI
