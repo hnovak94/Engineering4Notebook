@@ -36,6 +36,7 @@ width = disp.width
 height = disp.height
 image = Image.new('1', (width, height))
 draw = ImageDraw.Draw(image)
+padding = 20
 # Load default font.
 font = ImageFont.load_default()
 
@@ -50,14 +51,14 @@ while True:
     print('Accel X={0}, Accel Y={1}, Accel Z={2}, Mag X={3}, Mag Y={4}, Mag Z={5}'.format(
           accel_x, accel_y, accel_z, mag_x, mag_y, mag_z))
     draw.text((0, 0),     ("x: " + str(accel_x)),  font=font, fill=255)
-    shape_width = str(accel_x)
+    shape_width = accel_x//10
     top = padding
     bottom = height-padding
     # Move left to right keeping track of the current x position for drawing shapes.
     x = padding
     # Draw an ellipse.
-    draw.ellipse((x, top , x+shape_width, bottom), outline=255, fill=0)
-    x += shape_width+padding
+    draw.ellipse((x, top , x+int(shape_width), bottom), outline=255, fill=0)
+    x +=int(shape_width)+padding
     # Wait half a second and repeat.
     disp.image(image)
     disp.display()
