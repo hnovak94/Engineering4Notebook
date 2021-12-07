@@ -1,19 +1,39 @@
 # Engineering IV Notebook
 ## Table of Contents
-### Code
+<details>
+  <summary>Code</summary>
+  
 #### [Hello Python - Dice Roller](https://github.com/hnovak94/Engineering4Notebook#-hello-python)
+  
 #### [Python Program 01 - Calculator](https://github.com/hnovak94/Engineering4Notebook#-python-program-01)
+  
 #### [Python Program 02 - Quadratic Calculator](https://github.com/hnovak94/Engineering4Notebook#-python-program-02)
+  
 #### [Python Program 03 - Strings and Loops](https://github.com/hnovak94/Engineering4Notebook#-python-program-03)
+  
 #### [Python Challenge - MSP](https://github.com/hnovak94/Engineering4Notebook#-python-challenge---msp)
+  
 #### [RPi GPIO Pin Introduction](https://github.com/hnovak94/Engineering4Notebook/blob/main/README.md#rpi-gpio-pin-introduction)
+  
 #### [RPi Safe Shutdown Button](https://github.com/hnovak94/Engineering4Notebook#rpi-safe-shutdown-button)
+  
 #### [GPIO Pins - I2C](https://github.com/hnovak94/Engineering4Notebook#gpio-pins---i2c-1)
-### CAD
+  
+#### [Headless Accelerometer] 
+</details>
+  
+<details>
+  <summary>CAD</summary>
+  
 #### [CAD Test Part #1 - Swing Arm](https://github.com/hnovak94/Engineering4Notebook#cad-test-part-1---swing-arm)
+  
 #### [Intro to CAD 2.1-2.4 - Skateboard](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-21-24)
+  
 #### [Intro to CAD 3.1-3.4 - Lego](https://github.com/hnovak94/Engineering4Notebook#intro-to-cad-31-34)
+  
 #### [Multi-tool](https://github.com/hnovak94/Engineering4Notebook/blob/main/README.md#multi-tool-1)
+  
+  </details>
 
 
 ## Code
@@ -149,6 +169,18 @@ The goal of this assignment was to connect an accelerometer and an LCD screen so
 #### Reflection
 
 This assignment didn't include very much original code, but involved a combination of two codes from the accelerometer [library](https://github.com/hnovak94/Engineering4Notebook/tree/main/Adafruit_Python_LSM303) and the LCD [library](https://github.com/hnovak94/Engineering4Notebook/tree/main/Adafruit_Python_SSD1306). The first was this [code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Adafruit_Python_LSM303/examples/simpletest.py) which prints out the accelerometer values to the terminal window. The second [code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Adafruit_Python_SSD1306/examples/shapes.py) prints out shapes on the LCD screen. The trickiest part about this assignment was figuring out what parts of the code to keep and which to delete, which required some trial and error. [This](https://raspberrypi.stackexchange.com/questions/61396/how-to-write-string-and-variables-on-lcd-with-lcd-string) was helpful for turning the variable into a string to be printed to the LCD screen.
+
+### Headless Accelerometer
+
+[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/headlessacc.py)
+
+#### Assignment Description
+
+The object of this assignment was to pick one of the values measured by the accelerometer and print out a graphical representation of it on the LCD screen. After the code was finished, we then had to make it so the code would run without having to manually run the code (e.g. python3 headlessacc.py). The pi is now powered by a battery rather than the chromebook. 
+
+#### Reflection
+
+The code part of this assignment was a modification of the previous code for the [GPIO Pins assignment](https://github.com/hnovak94/Engineering4Notebook#gpio-pins---i2c-1)
 
 ## CAD
 
