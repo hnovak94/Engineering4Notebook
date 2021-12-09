@@ -48,7 +48,7 @@ This assignment we shifted away from working in Beagleterm, and began using and 
 
 The spicier version of this assignment offers the user the option to choose the number of sides and the number of die rolled. 
 
-#### Working Code
+#### Working Code (no wiring)
 
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/drcapture.PNG" height=200>
 
@@ -68,7 +68,7 @@ The spicier version was done by creating more inputs (for number of sides and nu
 
 The task for this assignment was to create a calculator on python where you could enter two values and the function doMath would give you the sum, the difference, the product, the quotient, and the modulo. The modulo is the remainder of a division problem, division without decimals.
 
-#### Working Code
+#### Working Code (no wiring)
 
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/calcoutput.PNG" height=200>
 
@@ -86,7 +86,7 @@ The modulo is found using "%". [This article](https://www.programiz.com/python-p
 
 For this assignment we had to create a program that would find the roots of a quadratic when given inputs for a, b, and c. 
 
-#### Working Code
+#### Working Code (no wiring)
 
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/qcalc.capt.PNG" height=200>
 
@@ -107,7 +107,7 @@ The first step for this assignment was to figure out the discriminant. The above
 
 For this assignment we had to write a program that asked the user to enter a simple sentence. The code would then split the individual words into letters, printing each letter on a different line, with a hyphen after each word. 
 
-#### Working Code
+#### Working Code (no wiring)
 
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/strings.capt.PNG" height=200>
 
@@ -124,7 +124,7 @@ For this assignment we had to use the split() function to divide a simple senten
 #### Assignment Description
 For this assignment we had to create a program that would play a game of hangman. Player 1 would enter a word, and it would then disappear. Player 2 would enter a guess and the hangman frame would appear. With every entered guess the program would tell the player whether the answer was in the word or not. If it is, then a body part is added to the frame, if it's correct, it will be stored in correct guesses. 
 
-#### Working Code
+#### Working Code (no wiring)
 <img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/hangmancapt.PNG" height=200>
 
 #### Reflection
@@ -177,10 +177,13 @@ This assignment didn't include very much original code, but involved a combinati
 #### Assignment Description
 
 The object of this assignment was to pick one of the values measured by the accelerometer and print out a graphical representation of it on the LCD screen. After the code was finished, we then had to make it so the code would run without having to manually run the code (e.g. python3 headlessacc.py). The pi is now powered by a battery rather than the chromebook. 
+#### Wiring
+
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/headlessaccwd.png" height="300">
 
 #### Reflection
 
-The code part of this assignment was a modification of the previous code for the [GPIO Pins assignment](https://github.com/hnovak94/Engineering4Notebook#gpio-pins---i2c-1)
+The code part of this assignment was a modification of the previous code for the [GPIO Pins assignment](https://github.com/hnovak94/Engineering4Notebook#gpio-pins---i2c-1). I used the code to print an ellipse from [shape.py](https://github.com/hnovak94/Engineering4Notebook/blob/main/Adafruit_Python_SSD1306/examples/shapes.py), and made the width of the ellipse the x value returned by the accelerometer (accel_x). I had to fiddle with the divisor so that the x-value would be small enough to fit on the screen properly. Getting the pi hooked up to the battery rather than the computer was just a matter of copying and pasting and following instructions. 
 
 ## CAD
 
