@@ -177,9 +177,9 @@ This assignment didn't include very much original code, but involved a combinati
 #### Assignment Description
 
 The object of this assignment was to pick one of the values measured by the accelerometer and print out a graphical representation of it on the LCD screen. After the code was finished, we then had to make it so the code would run without having to manually run the code (e.g. python3 headlessacc.py). The pi is now powered by a battery rather than the chromebook. 
-#### Wiring
+#### Working Code + Wiring
 
-<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/headlessaccwd.png" height="300">
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/headlessaccwd.png" height="300"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/ezgif.com-gif-maker.gif" height="300">
 
 #### Reflection
 
