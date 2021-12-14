@@ -198,7 +198,7 @@ The goal of this assignment was to wire up a camera to the pi, and then write tw
 
 #### Working Code + Wiring
 
-<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c1.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c2.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c3.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c4.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c5.png" height ="150">
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c1.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c2.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c3.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c4.png" height="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c5.png" height ="150"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/Media/picamwd.png" height="150">
 
 #### Reflection
 
