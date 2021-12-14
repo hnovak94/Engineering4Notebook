@@ -185,6 +185,22 @@ The object of this assignment was to pick one of the values measured by the acce
 
 The code part of this assignment was a modification of the previous code for the [GPIO Pins assignment](https://github.com/hnovak94/Engineering4Notebook#gpio-pins---i2c-1). I used the code to print an ellipse from [shape.py](https://github.com/hnovak94/Engineering4Notebook/blob/main/Adafruit_Python_SSD1306/examples/shapes.py), and made the width of the ellipse the x value returned by the accelerometer (accel_x). I had to fiddle with the divisor so that the x-value would be small enough to fit on the screen properly. Getting the pi hooked up to the battery rather than the computer was just a matter of copying and pasting and following instructions. 
 
+### Pi Camera
+
+[Code 1](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/camtest1.py)[Code 2](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/camtest2.py)
+
+#### Assignment Description
+
+The goal of this assignment was to wire up a camera to the pi, and then write two different codes. The first code would turn on the camera, take one picture, and then be done. That's code 1 above. The second code had to take 5 photos consecutively with 5 different filters applied. 
+
+#### Working Code + Wiring
+
+<img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c1.png" height="200"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c2.png" height="200"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c3.png" height="200"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c4.png" height="200"><img src="https://github.com/hnovak94/Engineering4Notebook/blob/main/pics/c5.png" height ="200">
+
+#### Reflection
+
+[This](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/7) website gives the syntax for applying effects to images within a python script. One thing that was helpful to do in this assignment was to have the program print ' image 1 ' or ' image 2 ' , etc after taking the picture, so if any problems came up it was clear at what point in the code it stopped working. Another important thing was making sure that the files were saved in the right place, and to save the images taken by the camera as .png, because that is Github's preferred format. 
+
 ## CAD
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/4938fa387c8e90e94338e4b1/w/9bf53b1e2e9fc5edd3a2e3a7/e/21c65779804e4c888af6c09e)
