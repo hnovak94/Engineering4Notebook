@@ -21,7 +21,10 @@
   
 #### [Headless Accelerometer](https://github.com/hnovak94/Engineering4Notebook/blob/main/README.md#headless-accelerometer-1) 
  
-#### [Pi Camera](https://github.com/hnovak94/Engineering4Notebook/blob/main/README.md#pi-camera)
+#### [Pi Camera](https://github.com/hnovak94/Engineering4Notebook#pi-camera-1)
+  
+#### [Copypasta]()
+
 </details>
   
 <details>
@@ -203,6 +206,18 @@ The goal of this assignment was to wire up a camera to the pi, and then write tw
 #### Reflection
 
 [This](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/7) website gives the syntax for applying effects to images within a python script. One thing that was helpful to do in this assignment was to have the program print ' image 1 ' or ' image 2 ' , etc after taking the picture, so if any problems came up it was clear at what point in the code it stopped working. Another important thing was making sure that the files were saved in the right place, and to save the images taken by the camera as .png, because that is Github's preferred format. <br/><br/><br/><br/>
+
+### Copypasta
+
+[Code](https://github.com/hnovak94/Engineering4Notebook/blob/main/Code/copypasta.py)
+
+#### Assignment Description
+
+The goal of this assignment was to use someone else's code to hook the pi camera up to a button. The camera should take a picture when the button is pressed. 
+
+#### Working Code + Wiring
+
+#### Reflection
 
 ## CAD
 
