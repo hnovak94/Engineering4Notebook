@@ -19,9 +19,9 @@ SPI_PORT = 0
 SPI_DEVICE = 0
 
 # Create a LSM303 instance.
-lsm303 = Adafruit_LSM303.LSM303()
+lsm303 = Adafruit_LSM303.LSM303() # accelerometer
 
-disp = Adafruit_SSD1306.SSD1306_128_64(rst=RST, i2c_address=0x3d)
+disp = Adafruit_SSD1306.SSD1306_128_64(rst=RST, i2c_address=0x3d) # lcd screen
 
 # Initialize library.
 disp.begin()
@@ -32,7 +32,7 @@ disp.display()
 
 # Create blank image for drawing.
 # Make sure to create image with mode '1' for 1-bit color.
-width = disp.width
+width = disp.width 
 height = disp.height
 image = Image.new('1', (width, height))
 draw = ImageDraw.Draw(image)
