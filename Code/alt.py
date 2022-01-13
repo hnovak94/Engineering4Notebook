@@ -1,32 +1,29 @@
-#include <Adafruit_MPL3115A2.h>
 
-Adafruit_MPL3115A2 baro;
+import time
+import board
+import adafruit_mpl3115a2
 
-void setup() {
-  Serial.begin(9600);
-  while(!Serial);
-  Serial.println("Adafruit_MPL3115A2 test!");
 
-  if (!baro.begin()) {
-    Serial.println("Could not find sensor. Check wiring.");
-    while(1);
-  }
+i2c = board.I2C()  # uses board.SCL and board.SDA
 
-  // use to set sea level pressure for current location
-  // this is needed for accurate altitude measurement
-  // STD SLP = 1013.26 hPa
-  baro.setSeaPressure(1013.26);
-}
+sensor = adafruit_mpl3115a2.MPL3115A2(i2c)
 
-void loop() {
-  float pressure = baro.getPressure();
-  float altitude = baro.getAltitude();
-  float temperature = baro.getTemperature();
+# You can configure the pressure at sealevel to get better altitude estimates.
+# This value has to be looked up from your local weather forecast or meteorological
+# reports.  It will change day by day and even hour by hour with weather
+# changes.  Remember altitude estimation from barometric pressure is not exact!
+# Set this to a value in pascals:
+sensor.sealevel_pressure = 99077
+alt= []
+while True:
+	altitude = sensor.altitude
+	alt.append(altitude) # add latest data to alt array
+	print(alt) # bring array
+	print(alt[0]) # print first altitude
+	if altitude < alt[-3] # if current altitude is less than before
+		print("apex") # will later be servos
+	time.sleep(1.0)
+	
 
-  Serial.println("-----------------");
-  Serial.print("pressure = "); Serial.print(pressure); Serial.println(" hPa");
-  Serial.print("altitude = "); Serial.print(altitude); Serial.println(" m");
-  Serial.print("temperature = "); Serial.print(temperature); Serial.println(" C");
 
-  delay(250);
-}
+
