@@ -13,6 +13,6 @@ with picamera.PiCamera() as camera:
 	print("running")
 
 	button.wait_for_press() 
-	camera.capture('../pics/cp.png') # where image is saved and its name
+	camera.capture('../pics/cp3.png') # where image is saved and its name
 	camera.stop_preview
 	print("done")
