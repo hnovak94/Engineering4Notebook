@@ -23,7 +23,7 @@
  
 #### [Pi Camera](https://github.com/hnovak94/Engineering4Notebook#pi-camera-1)
   
-#### [Copypasta]()
+#### [Copypasta](https://github.com/hnovak94/Engineering4Notebook#copypasta-1)
 
 </details>
   
